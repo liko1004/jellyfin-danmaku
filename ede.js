@@ -7,8 +7,8 @@
 // @copyright    2022, RyoLee (https://github.com/RyoLee)
 // @license      MIT; https://raw.githubusercontent.com/Izumiko/jellyfin-danmaku/jellyfin/LICENSE
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @updateURL    https://cdn.jsdelivr.net/gh/Izumiko/jellyfin-danmaku@jellyfin/ede.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/Izumiko/jellyfin-danmaku@jellyfin/ede.js
+// @updateURL    https://cdn.jsdelivr.net/gh/liko1004/jellyfin-danmaku@jellyfin/ede.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/liko1004/jellyfin-danmaku@jellyfin/ede.js
 // @resource     MDICON_CSS https://fonts.googleapis.com/icon?family=Material+Icons
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
